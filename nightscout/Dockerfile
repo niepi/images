@@ -1,0 +1,1 @@
+FROM nightscout/cgm-remote-monitor:14.2.6 
