@@ -1,1 +1,1 @@
-FROM php:8.2.18
+FROM php:8.2.19
